@@ -1,0 +1,29 @@
+# Tag definitions moved from old .csshrc file
+CASSTAG idc-cas-stg-ui-01 idc-cas-stg-ui-02 idc-cas-stg-ui-03 idc-cas-stg-ui-04 idc-cas-stg-ws-01 idc-cas-stg-ws-02 idc-cas-stg-ws-03 idc-cas-stg-batch-01 idc-cas-stg-pdf-01 idc-cas-stg-pdf-02 idc-cas-stg-pdf-03 idc-cas-stg-capi-01 idc-cas-stg-capi-02 idc-cas-stg-agui-01 idc-cas-stg-agui-02 idc-cas-stg-agws-01 idc-cas-stg-agws-02 idc-cas-stg-rabbitmq-01 idc-cas-stg-rabbitmq-02 idc-cas-stg-memcache-01 idc-cas-stg-memcache-02 idc-cas-stg-abui-01 idc-cas-stg-abws-02 idc-cas-stg-abui-01 idc-cas-stg-abws-02
+
+KUBE311 aws-eco-uat-kube-01 aws-eco-uat-kube-02 aws-eco-uat-kube-03 311-ecoa-qa-kube-01 311-ecoa-qa-kube-02 311-ecoa-qa-kube-03 311-eco-qa-kube-01 311-eco-qa-kube-02 311-eco-qa-kube-03
+
+###CASSTAG idc-cas-stg-ui-01 idc-cas-stg-ui-02 idc-cas-stg-ws-01 idc-cas-stg-ws-02 idc-cas-stg-ws-03 idc-cas-stg-ws-04 idc-cas-stg-batch-01 idc-cas-stg-pdf-01 idc-cas-stg-pdf-02 idc-cas-stg-capi-01 idc-cas-stg-capi-02 idc-cas-stg-agui-01 idc-cas-stg-agui-02 idc-cas-stg-agws-01 idc-cas-stg-agws-02 idc-cas-stg-rabbitmq-01 idc-cas-stg-rabbitmq-02 idc-cas-stg-memcache-01 idc-cas-stg-memcache-02 idc-cas-stg-abui-01 idc-cas-stg-abui-02 idc-cas-stg-abws-01 idc-cas-stg-abws-02
+
+KUBEIDC idc-eco-stg-kube-01 idc-eco-stg-kube-02 idc-eco-stg-kube-03 idc-eco-sandbox-kube-01 idc-eco-sandbox-kube-02 idc-eco-sandbox-kube-03  idc-eco-cuat-kube-01 idc-eco-cuat-kube-02 idc-eco-cuat-kube-03 idc-ecoa-prod-kube-01 idc-ecoa-prod-kube-02 idc-ecoa-prod-kube-03 idc-ecoa-stg-kube-01 idc-ecoa-stg-kube-02 idc-ecoa-stg-kube-03
+
+CASUAT idc-cas-cuat-ui-01 idc-cas-cuat-ws-01    idc-cas-cuat-batch-01   idc-cas-cuat-agui-01    idc-cas-cuat-agws-01    idc-cas-cuat-pdf-01     idc-cas-cuat-capi-01    idc-cas-cuat-rabbitmq-01        idc-cas-cuat-memcache-01        idc-cas-cuat-abui-01    idc-cas-cuat-abws-01
+
+CASAAMC idc-casa-prod-ui-01  idc-casa-prod-ui-02 idc-casa-prod-ws-01 idc-casa-prod-ws-02 idc-casa-prod-pdf-01 idc-casa-prod-pdf-02 idc-casa-prod-rabbitmq-01 idc-casa-prod-memcache-01
+
+CASASTAG idc-casa-uat-ui-01  idc-casa-uat-ui-02 idc-casa-uat-ws-01 idc-casa-uat-ws-02 idc-casa-uat-pdf-01 idc-casa-uat-pdf-02 idc-casa-uat-rabbitmq-01 idc-casa-uat-memcache-01
+
+CASAB idc-cas-prod-abui-01 idc-cas-prod-abui-02 idc-cas-prod-abws-01 idc-cas-prod-abws-02
+
+#CASUAT idc-cas-cuat-ws-01 idc-cas-cuat-ui-01 idc-cas-cuat-rabbitmq-01 idc-cas-cuat-memcache-01 idc-cas-cuat-pdf-01 idc-cas-cuat-agui-01 idc-cas-cuat-agws-01
+
+KUBEPROD 192.168.62.191 192.168.62.192 192.168.62.193  192.168.62.20  192.168.62.21  192.168.62.22 192.168.62.23 192.168.62.24 192.168.62.25 192.168.62.26 192.168.62.27 192.168.62.28 192.168.62.29 192.168.62.61 192.168.62.31 192.168.62.32 192.168.62.33 192.168.62.34 192.168.62.35 192.168.62.36 192.168.62.37 192.168.62.38 192.168.62.39 192.168.62.62 192.168.62.41 192.168.62.42 192.168.62.43 192.168.62.44 192.168.62.45 192.168.62.46 192.168.62.47 192.168.62.48 192.168.62.49 192.168.62.63 192.168.62.51 192.168.62.52 192.168.62.53 192.168.62.54 192.168.62.55 192.168.62.56 192.168.62.57 192.168.62.58
+
+CASAUAT idc-casa-cuat-ui-01 idc-casa-uat-ui-02 idc-casa-uat-ws-01 idc-casa-uat-ws-02   idc-casa-uat-batch-01   idc-casa-uat-agui-01    idc-casa-uat-agws-01    idc-casa-uat-pdf-01 idc-casa-uat-pdf-02    idc-casa-uat-capi-01    idc-casa-uat-rabbitmq-01        idc-casa-uat-memcache-01        idc-casa-uat-abui-01    idc-casa-uat-abws-01
+
+
+CASPROD idc-cas-prod-abui-01 idc-cas-prod-abui-02 idc-cas-prod-abws-01 idc-cas-prod-abws-02 idc-cas-prod-ui-01 idc-cas-prod-ui-02 idc-cas-prod-ui-03 idc-cas-prod-ui-04 idc-cas-prod-ui-05 idc-cas-prod-ws-01 idc-cas-prod-ws-02 idc-cas-prod-ws-03 idc-cas-prod-ws-04 idc-cas-prod-ws-05 idc-cas-prod-ws-06 idc-cas-prod-ws-07 idc-cas-prod-ws-08 idc-cas-prod-ws-09 idc-cas-prod-ws-10 idc-cas-prod-ws-11 idc-cas-prod-ws-12 idc-cas-prod-ws-13 idc-cas-prod-batch-01 idc-cas-prod-pdf-01 idc-cas-prod-pdf-02 idc-cas-prod-pdf-03 idc-cas-prod-pdf-04 idc-cas-prod-capi-01 idc-cas-prod-capi-02 idc-cas-prod-agui-01 idc-cas-prod-agui-02 idc-cas-prod-agws-01 idc-cas-prod-agws-02 idc-cas-prod-memcache-01 idc-cas-prod-memcache-02 idc-cas-prod-rabbitmq-01 idc-cas-prod-rabbitmq-02
+
+DOCKER 311docker11 311docker12 311docker13 311docker14 311docker15 311docker16
+
+INT 311-cas-int-ui-01 311-cas-int-ws-01 311-cas-int-agws-01 311-cas-int-agui-01 311-cas-int-rabbitmq-01 311-cas-int-memcache-01 311-cas-int-pdf-01 311-cas-int-batch-01 311-cas-int-capi-01 311-cas-int-abui-01    311-cas-int-abws-01
